@@ -1,0 +1,5 @@
+sentence-transformers==2.6.1
+faiss-cpu
+numpy==1.26.4
+tqdm==4.66.2
+ollama==0.1.8
